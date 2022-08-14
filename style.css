@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    width: 40%;
+}
+.header{
+    background-color: #157293;
+    display: flex;
+}
+.to-hide{
+    display: flex;
+    justify-content: right;
+}
